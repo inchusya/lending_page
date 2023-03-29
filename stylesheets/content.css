@@ -1,0 +1,448 @@
+body {
+  background-color: #efefef;
+  overflow-x: hidden;
+}
+section {
+  height: 57.87vw;
+  margin: 0;
+  overflow: hidden;
+}
+h1 {
+  font-family: "Diagramatika";
+  font-size: 1.39vw;
+  font-weight: normal;
+  color: #231f1c;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+h2 {
+  font-family: "Diagramatika";
+  font-size: 3.7vw;
+  font-weight: normal;
+  color: #231f1c;
+}
+h3 {
+  font-family: "Diagramatika";
+  font-size: 3.7vw;
+  font-weight: normal;
+  color: #feff8b;
+}
+.navigation {
+  text-align: center;
+  width: 39vw;
+  display: flex;
+  margin-left: 31%;
+  margin-top: 2%;
+  position: relative;
+  justify-content: space-between;
+}
+.ouch {
+  margin-top: 3%;
+  text-align: center;
+  width: 100vw;
+}
+.firsthead {
+  width: 90.16vw;
+}
+.firstheadmob {
+  display: none;
+}
+.divgo {
+  margin-top: 3%;
+  text-align: center;
+  width: 100vw;
+}
+.backgo {
+  width: 16.96vw;
+}
+.go {
+  margin-top: -3.1%;
+  font-family: "Diagramatika";
+  font-size: 2.08vw;
+  font-weight: normal;
+  color: #feff8b;
+}
+.mountaindiv {
+  text-align: center;
+  margin-top: 6%;
+  margin-left: -8%;
+}
+.mountain {
+  width: 112vw;
+}
+.mountainmob {
+  display: none;
+}
+.logodiv {
+  text-align: center;
+  margin-top: -40%;
+  margin-left: 0%;
+}
+.logo {
+  width: 53.18vw;
+}
+.sparkdiv {
+  position: absolute;
+  top: 129%;
+  left: 5%;
+  z-index: -1;
+}
+.spark {
+  width: 30.09vw;
+}
+.header {
+  width: 34.43vw;
+}
+.firsttextd {
+  text-align: center;
+  margin-top: 29vh;
+}
+.firsttext {
+  width: 73.5vw;
+  text-align: center;
+}
+.firsttextflex {
+  margin-top: 1%;
+  display: flex;
+  justify-content: space-around;
+}
+.masha {
+  width: 7.41vw;
+}
+.textaud {
+  margin-left: 1%;
+  width: 23.44vw;
+  font-family: "Diagramatika";
+  font-size: 2.08vw;
+  font-weight: normal;
+  color: #feff8b;
+}
+.auditory {
+  margin-left: 59%;
+  margin-top: 1%;
+  display: flex;
+  width: 35vw;
+}
+#second {
+  background-color: #231f1c;
+}
+#three {
+  background-color: #ffffff;
+}
+#five {
+  background-color: #ffffff;
+}
+#six {
+  background-color: #231f1c;
+  height: 51.042vw;
+}
+#seven {
+  background-color: #231f1c;
+  height: 13.704vw;
+}
+.mustknowimg {
+  width: 50vw;
+}
+.mustknow {
+  margin-left: 0%;
+  margin-top: 0%;
+}
+.secondtextd {
+  margin-left: 59%;
+  margin-top: -58%;
+}
+.secondheader {
+  width: 21vw;
+}
+.secondtext {
+  width: 36vw;
+  margin-top: 3%;
+}
+.draw {
+  width: 20.31vw;
+}
+.backknow {
+  display: block;
+  margin-top: 7%;
+  width: 22.45vw;
+}
+.know {
+  margin-top: -7.1%;
+  margin-left: 11.5%;
+  font-family: "Diagramatika";
+  font-size: 2.08vw;
+  font-weight: normal;
+  color: #feff8b;
+}
+.four {
+  background-color: #231f1c;
+}
+.thirdtextd {
+  text-align: center;
+  margin-top: 14%;
+}
+.thirdheader {
+  width: 51.68vw;
+}
+.thirdheadermobd {
+  display: none;
+}
+.thirdtext {
+  width: 73.5vw;
+  text-align: center;
+  color: #feff8b;
+}
+.boy1d {
+  margin-left: 1%;
+  margin-top: -41%;
+}
+.boy1 {
+  width: 23.79vw;
+}
+.boy2d {
+  margin-left: 70%;
+  margin-top: 20%;
+}
+.boy2 {
+  width: 26.5vw;
+}
+.benefitsd {
+  text-align: right;
+  margin-top: -3%;
+}
+.benefitsimg {
+  /* height: 116vh; */
+  width: 50vw;
+}
+.phoned {
+  position: relative;
+  text-align: right;
+  margin-top: -101vh;
+  /* margin-bottom: 10%; */
+  margin-right: 8%;
+}
+.phone {
+  height: 88vh;
+  /* width: 33.53vw; */
+}
+.fourthtextd {
+  position: relative;
+  z-index: 2;
+  margin-left: 2%;
+  margin-top: -58%;
+}
+.fourthheader {
+  width: 35.47vw;
+}
+.fourthtext {
+  width: 39vw;
+  margin-top: 1%;
+}
+.divgo1 {
+  margin-top: 3%;
+}
+.go1 {
+  margin-top: -3.1%;
+  margin-left: 4.8%;
+  font-family: "Diagramatika";
+  font-size: 2.08vw;
+  font-weight: normal;
+  color: #feff8b;
+}
+.fourthtext2 {
+  margin-top: 1%;
+  width: 39vw;
+  font-family: "Diagramatika";
+  font-size: 2.08vw;
+  font-weight: normal;
+  color: #231f1c;
+}
+.back {
+  width: 100vw;
+}
+.backdiv {
+  margin-top: 0%;
+}
+.lastlogo {
+  /* margin-bottom: 26vh; */
+  margin-top: -45%;
+}
+.logodiv1 {
+  width: 100vw;
+  /* margin-top: -53%; */
+  text-align: center;
+}
+.logo1 {
+  width: 15.34vw;
+}
+.lastheaderdiv {
+  display: flex;
+  justify-content: space-around;
+}
+.lastheader {
+  width: 45.72vw;
+}
+.join1 {
+  text-align: center;
+  margin-top: 2%;
+}
+.backjoin {
+  width: 24.71vw;
+}
+.jointext {
+  margin-top: -3.1%;
+  font-family: "Diagramatika";
+  font-size: 2.08vw;
+  font-weight: normal;
+  color: #231f1c;
+}
+.footer {
+  /* position: absolute; */
+  margin-top: 13%;
+  margin-left: 3%;
+  /* left: 3%;
+  bottom: -500vh; */
+  display: flex;
+  width: 94vw;
+  justify-content: space-between;
+}
+.leftfooter {
+  display: flex;
+  width: 17vw;
+  justify-content: space-between;
+}
+.promo {
+  text-align: center;
+}
+.backpromo {
+  width: 6.6vw;
+}
+.promotext {
+  margin-top: -35%;
+}
+.aboutus {
+  text-align: center;
+}
+.backaboutus {
+  width: 8.68vw;
+}
+.aboutustext {
+  margin-top: -27%;
+}
+.rightfooter {
+  display: flex;
+  width: 13.5vw;
+  justify-content: space-between;
+}
+.tg {
+  text-align: center;
+}
+.backtg {
+  width: 7.81vw;
+}
+.tgtext {
+  margin-top: -29%;
+}
+.vk {
+  text-align: center;
+}
+.backvk {
+  width: 4.17vw;
+}
+.vktext {
+  margin-top: -54%;
+}
+.O_Footer {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 175px;
+  /* margin-top: 140px; */
+  bottom: 0;
+  background-color: #231f1c;
+}
+.M_FooterLinks {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  margin-right: 266px;
+  gap: 48px;
+}
+.W_LinksColoumn {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.A_FooterLink {
+  margin: 4.5px 0px 4.5px 0px;
+  font-family: "InterRegular";
+  font-size: 18px;
+  line-height: 146%;
+  color: #efefef;
+}
+.A_SeeYa {
+  font-family: "InterRegular";
+  font-size: 18px;
+  line-height: 146%;
+  color: #efefef;
+}
+.M_MailCollectionBlock {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 242px;
+  margin-right: 124px;
+  gap: 3px;
+}
+.A_LeaveMailCall {
+  width: 242px;
+  font-family: "InterLight";
+  font-size: 12px;
+  line-height: 115%;
+  color: #efefef;
+}
+.A_MailInput {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  width: 220px;
+  height: 30px;
+  opacity: 0.6;
+}
+.mailInput {
+  padding: 10px 0px 6px 5px;
+  border: none;
+  border-bottom: solid;
+  border-width: 1px;
+  border-color: #efefef;
+  font-family: "InterLight";
+  font-size: 12px;
+  line-height: 115%;
+  background-color: #231f1c;
+}
+.A_Logo {
+  width: 100px;
+}
+.M_RightsReservedBlock {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  /* opacity: 0.5; */
+  margin-top: -5px;
+  gap: 17px;
+}
+.A_RightsReservedText {
+  width: 242px;
+  font-family: "InterLight";
+  font-size: 12px;
+  line-height: 115%;
+  color: #efefef;
+}
